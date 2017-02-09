@@ -1,0 +1,13 @@
+SMAP
+recibe_jsp.java
+JSP
+*S JSP
+*F
++ 0 recibe.jsp
+recibe.jsp
+*L
+5,14:44
+18,6:58
+24:64,3
+25,6:67
+*E
